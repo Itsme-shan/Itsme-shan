@@ -9,15 +9,13 @@
 <p align="left">
 <a href="https://wa.me/94704210265"><img src="https://img.shields.io/badge/Contact SHANZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🔭 I’m currently working on **SHANZ-BOT**
 
 - 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Android , MEARN**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+- 📫 How to reach me **malinduhirushan12345@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
