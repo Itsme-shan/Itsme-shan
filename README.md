@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Itsme-shan&label=Profile%20views&color=0e75b6&style=flat" alt="Itsme-shan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/badge/Contact" alt="rishavchanda" /></a> </p>
+<p align="left">
+<a href="https://wa.me/94704210265"><img src="https://img.shields.io/badge/Contact SHANZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 - 🔭 I’m currently working on **Buckoid Android App**
 
